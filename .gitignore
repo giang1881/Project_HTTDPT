@@ -1,0 +1,8 @@
+/Nature
+/change_bg.ipynb
+/colorExtract.ipynb
+/main.ipynb
+/venv
+deeplabv3_xception_tf_dim_ordering_tf_kernels*
+mask_rcnn_coco.*
+xception_pascalvoc.*
